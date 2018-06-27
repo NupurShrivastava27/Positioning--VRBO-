@@ -1,4 +1,4 @@
-#Re-Positioning and marketing recommendations to assist VRBO in gaining back their market share
+# Re-Positioning and marketing recommendations to assist VRBO in gaining back their market share
 
 #**Background and Research Objectives**#
 In 1995 Vacation Rentals by Owner (VRBO) was founded by couple Dave and Lynn Clouse.  Originally the website was designed as a marketing platform that allowed property owners to rent their properties to vacationers directly without necessitating a property management company or any other middleman.  At the time of its conception, VRBO was revolutionary.  Very few, if any, websites offered a platform that allowed property owners to rent their space directly to guests.  The concept was immediately successful and VRBO became a pioneer in the vacation rental by owner industry. 
