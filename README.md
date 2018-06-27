@@ -36,13 +36,13 @@ After analyzing our data and positioning map we have concluded that VRBO’s eff
 Brand Awareness
 Our data clearly identifies lack of brand awareness as a crippling issue for VRBO.  In order to reach travelers more directly, VRBO needs to invest in their brand awareness, specifically through social media.  This will be especially important if VRBO wishes to capture the attention of younger travelers who are very familiar with Airbnb and Hotels.com.  Even though VRBO has presence on Facebook, Instagram and Twitter, it is not comparable to Airbnb and Hotels.com. VRBO’s number of likes and followers in all top social media platforms are 5 to 300 times lower than the same metrics of Airbnb and Hotels.com. By analyzing the number of posts on Instagram and we can see that VRBO has the least number of posts (71) in comparison to Airbnb (1760) and Hotels.com (750). Same situation can be seen on Twitter, VRBO has 3,904 tweets, Airbnb has 36,200 and Hotels.com 32,300.
 We also suggest partnering with travel influencers, for instance FunForLuis who has almost 2 million followers on Youtube. He talks about his travels all over the world. That might be a good partnership where he will promote VRBO by sharing his travel experiences provided by the new and fresh VRBO platform. Influencers tend to be cheaper to hire and partnerships with them look more natural then direct advertising.  Their connection to younger travelers can be vastly beneficial to VRBO’s efforts to reposition.
-*Remodeling the Website
+*Remodeling the Website*
 VRBO’s website is outdated and does not exude the spirit of travel.  A new layout that is bright, colorful and gets the visitor excited to plan their trip is essential.  We suggest spotlighting different promotions, unique accommodations and local events to catch attention, awareness and increase traffic to the site. We see the website as a selling tool, so it's important to make user experience exceptional, smooth and easy. 
 
-*Emphasis on strengths
+*Emphasis on strengths*
 VRBO’s largest competitor is no doubt Airbnb which came up with the same idea, but 13 years later.  However with more exposure and big expenditures on marketing and promotions it surpassed VRBO in every aspect. VRBO has developed long term relationships and connections with hosts and travelers who have used their services for many years. So, we suggest that this experience and the image of well-established company be highlighted in marketing campaigns. This can be done by interviewing long term hosts and collecting feedback from customers who use the platform for many years. We want to spotlight the trustworthiness of VRBO while promoting their commitment to being on the cutting edge of the vacation rental industry.
  
-*Cross promotions
+*Cross promotions*
 Now would be an excellent time for VRBO to reach out to other travel focused companies and create cross promotions.  Suggested organizations are rental car companies, airlines, and local event organizations such as theaters.  Virgin America had recently partners with Airbnb allowing Airbnb guests to get elevation points from Virgin America that are the analog of miles. 
 
 ## **Conclusion**
