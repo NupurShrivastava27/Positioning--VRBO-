@@ -11,7 +11,7 @@ Our goal with our research is to examine the steps taken by VRBO to reposition t
 
 
 ## **Analysis**
-Using DecisionPro, positioning analysis was run for three brands: VRBO (the focal brand) and its two competitors, Airbnb and Hotel.com. A 2-dimensional analysis was run with 14 attributes, and 48 respondents. When there are only three brands, the software does not allow you to run the analysis with 3 dimensions. In any case, the cumulative variance chart shows that a third dimension would not be necessary as 100% of the variance is explained by dimensions 1 and 2.
+For all analysis, we use the Marketing Engineering for Excel software (an add-in for the Windows version of Microsoft Excel) to add statistical analysis features to basic Microsoft Excel functionality. Using Marketing Engneering Excel DecisionPro add-in, positioning analysis was run for three brands: VRBO (the focal brand) and its two competitors, Airbnb and Hotel.com. A 2-dimensional analysis was run with 14 attributes, and 48 respondents. When there are only three brands, the software does not allow you to run the analysis with 3 dimensions. In any case, the cumulative variance chart shows that a third dimension would not be necessary as 100% of the variance is explained by dimensions 1 and 2.
 [https://github.com/NupurShrivastava27/Positioning--VRBO-/issues/1]
 
 The variance explained for each dimension is an indication of the importance of that dimension in terms of customer perception.  The Variance Explained chart shows that dimension 1 accounts for 82.4% of variance explained and dimension 2 accounts for 17.6%.
