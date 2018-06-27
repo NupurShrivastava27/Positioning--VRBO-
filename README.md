@@ -1,4 +1,4 @@
-# Re-Positioning and marketing recommendations to assist VRBO in gaining back their market share
+# Re-Positioning and marketing recommendations to VRBO
 
 ## **Background and Research Objectives**
 In 1995 Vacation Rentals by Owner (VRBO) was founded by couple Dave and Lynn Clouse.  Originally the website was designed as a marketing platform that allowed property owners to rent their properties to vacationers directly without necessitating a property management company or any other middleman.  At the time of its conception, VRBO was revolutionary.  Very few, if any, websites offered a platform that allowed property owners to rent their space directly to guests.  The concept was immediately successful and VRBO became a pioneer in the vacation rental by owner industry. 
@@ -17,7 +17,7 @@ Using DecisionPro, positioning analysis was run for three brands: VRBO (the foca
 The variance explained for each dimension is an indication of the importance of that dimension in terms of customer perception.  The Variance Explained chart shows that dimension 1 accounts for 82.4% of variance explained and dimension 2 accounts for 17.6%.
 [https://github.com/NupurShrivastava27/Positioning--VRBO-/issues/2]
 
-The 2D positioning map has two types of lines:
+The 2D positioning map has two types of lines
 •	Blue lines, also known as vectors, represent the perceptual data with 14 different attributes. The perceptual map shows the focal brand’s position in relation to the competitors as perceived by the customers.
 •	Pink lines represent the preference data of 48 respondents. Primarily, it indicates what where customer perferences lie in the perceptual space and plays an important role for positioning/repositioning.
 
@@ -36,6 +36,7 @@ After analyzing our data and positioning map we have concluded that VRBO’s eff
 Brand Awareness
 Our data clearly identifies lack of brand awareness as a crippling issue for VRBO.  In order to reach travelers more directly, VRBO needs to invest in their brand awareness, specifically through social media.  This will be especially important if VRBO wishes to capture the attention of younger travelers who are very familiar with Airbnb and Hotels.com.  Even though VRBO has presence on Facebook, Instagram and Twitter, it is not comparable to Airbnb and Hotels.com. VRBO’s number of likes and followers in all top social media platforms are 5 to 300 times lower than the same metrics of Airbnb and Hotels.com. By analyzing the number of posts on Instagram and we can see that VRBO has the least number of posts (71) in comparison to Airbnb (1760) and Hotels.com (750). Same situation can be seen on Twitter, VRBO has 3,904 tweets, Airbnb has 36,200 and Hotels.com 32,300.
 We also suggest partnering with travel influencers, for instance FunForLuis who has almost 2 million followers on Youtube. He talks about his travels all over the world. That might be a good partnership where he will promote VRBO by sharing his travel experiences provided by the new and fresh VRBO platform. Influencers tend to be cheaper to hire and partnerships with them look more natural then direct advertising.  Their connection to younger travelers can be vastly beneficial to VRBO’s efforts to reposition.
+
 *Remodeling the Website*
 VRBO’s website is outdated and does not exude the spirit of travel.  A new layout that is bright, colorful and gets the visitor excited to plan their trip is essential.  We suggest spotlighting different promotions, unique accommodations and local events to catch attention, awareness and increase traffic to the site. We see the website as a selling tool, so it's important to make user experience exceptional, smooth and easy. 
 
