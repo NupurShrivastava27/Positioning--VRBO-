@@ -12,16 +12,18 @@ Our goal with our research is to examine the steps taken by VRBO to reposition t
 
 ## **Analysis**
 For all analysis, we use the Marketing Engineering for Excel software (an add-in for the Windows version of Microsoft Excel) to add statistical analysis features to basic Microsoft Excel functionality. Using Marketing Engneering Excel DecisionPro add-in, positioning analysis was run for three brands: VRBO (the focal brand) and its two competitors, Airbnb and Hotel.com. A 2-dimensional analysis was run with 14 attributes, and 48 respondents. When there are only three brands, the software does not allow you to run the analysis with 3 dimensions. In any case, the cumulative variance chart shows that a third dimension would not be necessary as 100% of the variance is explained by dimensions 1 and 2.
-[https://github.com/NupurShrivastava27/Positioning--VRBO-/issues/1]
+![image](https://user-images.githubusercontent.com/40229384/41960551-e7dd247c-79a4-11e8-9b33-dee6e582612a.png)
 
 The variance explained for each dimension is an indication of the importance of that dimension in terms of customer perception.  The Variance Explained chart shows that dimension 1 accounts for 82.4% of variance explained and dimension 2 accounts for 17.6%.
-[https://github.com/NupurShrivastava27/Positioning--VRBO-/issues/2]
+![image](https://user-images.githubusercontent.com/40229384/41960578-fc191e5a-79a4-11e8-8c88-ed9ce22a0912.png)
 
 The 2D positioning map has two types of lines
+
 •	Blue lines, also known as vectors, represent the perceptual data with 14 different attributes. The perceptual map shows the focal brand’s position in relation to the competitors as perceived by the customers.
+
 •	Pink lines represent the preference data of 48 respondents. Primarily, it indicates what where customer perferences lie in the perceptual space and plays an important role for positioning/repositioning.
 
-[https://github.com/NupurShrivastava27/Positioning--VRBO-/issues/3]
+![image](https://user-images.githubusercontent.com/40229384/41960600-08a35ed8-79a5-11e8-9c0d-3efbab59279b.png)
 
 Dimension I which explains 82.4% of the total variance of the data, best describes the x-axis as “Overall Customer Experience” where to the right is more positive and the left is more negative. The attributes close to this axis are cancellation policy, variety of price ranges, and service fees.
 Dimension II which explains 17.6% of total variance desribes the y-axis. This axis was named "Live-like-a-Local"-ness where in the upwards direction the brand has more of this quality and downwards there is less. It explains the relative positions of Airbnb and Hotels.com well as Airbnb promotes themselves are allowing you to “Live-like-a-local” and this one way they differentiate themselves from traditional hotels.
