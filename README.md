@@ -21,9 +21,10 @@ The 2D positioning map has two types of lines
 
 •	Blue lines, also known as vectors, represent the perceptual data with 14 different attributes. The perceptual map shows the focal brand’s position in relation to the competitors as perceived by the customers.
 
-•	Pink lines represent the preference data of 48 respondents. Primarily, it indicates what where customer perferences lie in the perceptual space and plays an important role for positioning/repositioning.
+•	Pink lines represent the preference data of 48 respondents. Primarily, it indicates what where customer perferences lie in the perceptual space and plays an important role for positioning/re positioning.
 
-![image](https://user-images.githubusercontent.com/40229384/41960600-08a35ed8-79a5-11e8-9c0d-3efbab59279b.png)
+![positioning map](https://user-images.githubusercontent.com/40229384/41967779-469d556a-79b7-11e8-8a1b-f14c1b6e1a0a.png)
+
 
 Dimension I which explains 82.4% of the total variance of the data, best describes the x-axis as “Overall Customer Experience” where to the right is more positive and the left is more negative. The attributes close to this axis are cancellation policy, variety of price ranges, and service fees.
 Dimension II which explains 17.6% of total variance desribes the y-axis. This axis was named "Live-like-a-Local"-ness where in the upwards direction the brand has more of this quality and downwards there is less. It explains the relative positions of Airbnb and Hotels.com well as Airbnb promotes themselves are allowing you to “Live-like-a-local” and this one way they differentiate themselves from traditional hotels.
